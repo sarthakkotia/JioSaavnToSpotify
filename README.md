@@ -26,10 +26,10 @@ A Flutter project which aims to simplify the process of transferring your favori
 
 **See the code in action**
 Prerequisites
-Make Sure you have flutter SDK installed with the IDE of your choice
-*Run the app with Android Studio or VS Code. Or the command line:
-flutter pub get
-flutter run
+* Make Sure you have flutter SDK installed with the IDE of your choice
+* Run the app with Android Studio or VS Code. Or the command line:
+ - flutter pub get
+ - flutter run
 
 
 
