@@ -19,7 +19,7 @@ A Flutter project which aims to simplify the process of transferring your favori
 * Retreive current Spotify Playlists: Using the Spotify Api user may be able to access their playlist to add songs or alternatively they can also create a new playlist from the app itself.
 * For each song in the jiosaavn playlist user have the ability to decide wheather to add the corresponding song whic was searched in spotify and users can change the search query as well! or they could skip that particular song
 * If the song is already in the User's selected spotify playlist it would automatically be skipped hence avoiding clashes
-![image](https://github.com/sarthakkotia/JioSaavnToSpotify/assets/37319907/fa0dc471-7a65-4383-b4ff-81f6e6c07652)
+<img src="(https://github.com/sarthakkotia/JioSaavnToSpotify/assets/37319907/fa0dc471-7a65-4383-b4ff-81f6e6c07652" width=50% height=6.25%>
 ![video](https://github.com/sarthakkotia/JioSaavnToSpotify/assets/37319907/4f577779-0794-400c-a5b6-a47698b1b113)
 **See the code in action**
 Prerequisites
