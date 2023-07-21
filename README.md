@@ -12,6 +12,9 @@ A Flutter project which aims to simplify the process of transferring your favori
 * Simple and straightforward song selection and playlist addition process.
 * Secure authentication with Spotify to access user playlists and add songs.
 
+**See the app in action**
+* ![video](https://github.com/sarthakkotia/JioSaavnToSpotify/assets/37319907/4f577779-0794-400c-a5b6-a47698b1b113)
+
 **How it Works**
 * User have a predetermined playlists to choose from Jiosaavn app due to unavailablity of Jiosaavn Public API
 * Retrieve JioSaavn Song: The app sends the search query to the JioSaavn API, which returns the playlists with songs data
@@ -21,8 +24,7 @@ A Flutter project which aims to simplify the process of transferring your favori
 * If the song is already in the User's selected spotify playlist it would automatically be skipped hence avoiding clashes
 <img src="https://github.com/sarthakkotia/JioSaavnToSpotify/assets/37319907/fa0dc471-7a65-4383-b4ff-81f6e6c07652" width=50% height=6.25%>
 <br>
-**See the app in action**<br>
-  ![video](https://github.com/sarthakkotia/JioSaavnToSpotify/assets/37319907/4f577779-0794-400c-a5b6-a47698b1b113)
+
 
 **See the code in action**
 Prerequisites
