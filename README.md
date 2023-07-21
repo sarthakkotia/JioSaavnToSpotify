@@ -1,7 +1,7 @@
 # JioSaavn to Spotify
 
 
-<img src="https://github.com/sarthakkotia/JioSaavnToSpotify/assets/37319907/f6df2791-9097-4f61-a715-8b69ca2ab2c8" width=50% height=25%>
+<img src="https://github.com/sarthakkotia/JioSaavnToSpotify/assets/37319907/f6df2791-9097-4f61-a715-8b69ca2ab2c8" width=50% height=12.5%>
 
 
 
