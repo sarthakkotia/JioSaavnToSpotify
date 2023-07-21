@@ -21,7 +21,7 @@ A Flutter project which aims to simplify the process of transferring your favori
 * If the song is already in the User's selected spotify playlist it would automatically be skipped hence avoiding clashes
 <img src="https://github.com/sarthakkotia/JioSaavnToSpotify/assets/37319907/fa0dc471-7a65-4383-b4ff-81f6e6c07652" width=50% height=6.25%>
 <br>
-**See the app in action**
+**See the app in action**<br>
   ![video](https://github.com/sarthakkotia/JioSaavnToSpotify/assets/37319907/4f577779-0794-400c-a5b6-a47698b1b113)
 
 **See the code in action**
